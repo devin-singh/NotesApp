@@ -2,8 +2,8 @@
 //  NoteDetailViewController.swift
 //  Notes
 //
-//  Created by Devin Ghumman on 1/10/20.
-//  Copyright © 2020 Devin Ghumman. All rights reserved.
+//  Created by Devin Singh on 1/10/20.
+//  Copyright © 2020 Devin Singh. All rights reserved.
 //
 
 import UIKit
